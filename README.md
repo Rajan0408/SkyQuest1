@@ -9,7 +9,7 @@ This repository contains a Python + Selenium script to scrape detailed company p
 For each Crunchbase organization URL, the script automatically:
 
 - Opens the company profile using Selenium + Chrome WebDriver
-- 
+  
 - Extracts core company details:
   - Organization name, URL, description
   - Founded date, IPO status, CB rank
