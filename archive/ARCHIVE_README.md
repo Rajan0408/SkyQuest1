@@ -1,4 +1,4 @@
-# 📦 Archive – Country-Wise & Stock Exchange Web Scraping Scripts
+# Archive – Country-Wise & Stock Exchange Web Scraping Scripts
 
 This folder contains **older, experimental, and country-specific web scraping scripts** developed during large-scale data collection for FMCG, Healthcare, and Stock Exchange companies.  
 All scripts use **Selenium + Python** to extract company names from Wikipedia, ZoomInfo, Business1, Lookup.pk, and regional stock exchanges.
@@ -7,7 +7,7 @@ These files represent previous iterations, testing logic, and standalone scraper
 
 ---
 
-## 📁 Scripts Overview
+##  Scripts Overview
 
 ### **FMCG_countrywise.py**
 Scrapes FMCG company names from **Lookup.pk** for Pakistan.
@@ -68,7 +68,7 @@ Improved country-wise healthcare scraper.
 
 ---
 
-## 🎯 Purpose of This Archive
+## Purpose of This Archive
 These scripts are stored here because:
 
 - They represent earlier versions of the final consolidated pipeline  
@@ -78,7 +78,7 @@ These scripts are stored here because:
 
 ---
 
-## ⚠️ Notes
+##  Notes
 - Scripts use **hardcoded paths** (e.g., `E:\SkyQuest\...`)
 - Some CSS selectors may be outdated due to website changes  
 - Scripts may not run without modification  
