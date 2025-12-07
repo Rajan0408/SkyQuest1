@@ -47,3 +47,5 @@ The script compiles all scraped company details into a Pandas DataFrame and expo
 ```
 
 This output CSV contains one row per company with all extracted fields (company profile, funding, people, technology, and news information).
+
+Note: The archive/ folder contains country-wise and stock-exchange scraping scripts used during early dataset collection. These scripts are not part of the main Crunchbase scraper but are preserved for reference and reuse. See archive/ARCHIVE README.md for details.
