@@ -1,7 +1,6 @@
 # Healthcare Crunchbase Scraper
 
-This repository contains a Python + Selenium script to scrape detailed company profiles from Crunchbase for a list of healthcare (or any domain) organizations and export the data into a clean CSV file for further analysis. :contentReference[oaicite:0]{index=0}  
-
+This repository contains a Python + Selenium script to scrape detailed company profiles from Crunchbase for a list of healthcare (or any domain) organizations and export the data into a clean CSV file for further analysis. 
 ---
 
 ## What this script does
